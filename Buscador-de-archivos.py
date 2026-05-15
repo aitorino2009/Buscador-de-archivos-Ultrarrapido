@@ -1,3 +1,12 @@
+"""
+Buscador Rayo McQueen - Buscador de archivos ultrarrápido
+---------------------------------------------------------
+Autor: aitorino2009
+Licencia: MIT
+Descripción: Herramienta de línea de comandos para buscar archivos
+             con filtros avanzados de tamaño y palabras clave.
+"""
+
 import os
 import time
 import platform
